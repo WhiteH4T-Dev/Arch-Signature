@@ -14,7 +14,7 @@ Show network configuration
 
 **Solution**
 
-signature from "Levon 'noptrix' Kayan (Developer) &lt;noptrix@nullsecurity.net>" is invalid error
+Signature from "Levon 'noptrix' Kayan (Developer) &lt;noptrix@nullsecurity.net>" is invalid error
 
     rm -rf /etc/pacman.d/gnupg
     
