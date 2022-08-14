@@ -23,3 +23,5 @@ signature from "Levon 'noptrix' Kayan (BlackArch Developer) &lt;noptrix@nullsecu
     pacman-key --populate archlinux blackarch
     
     pacman-key --update --keyserver keyserver.ubuntu.com
+    
+<hr>
