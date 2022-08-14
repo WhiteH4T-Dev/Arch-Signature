@@ -1,5 +1,17 @@
 <hr>
 
+**Networks**
+
+Enable the DHCP Server
+
+    sudo systemctl enable --now dhcpcd.service
+    
+Show network configuration
+
+    ifconfig
+
+<hr>
+
 **Solution**
 
 signature from "Levon 'noptrix' Kayan (BlackArch Developer) &lt;noptrix@nullsecurity.net>" is invalid error
