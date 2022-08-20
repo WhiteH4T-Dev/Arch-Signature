@@ -1,6 +1,8 @@
+<img src="images/1.jpg" width="500"></img>
+
 This was created for Arch Linux users who have the same problems. Once you've completed the steps below, your system should function properly. Arch Linux is an independently developed, x86-64 general-purpose Linux distribution that strives to provide the latest stable versions of most software by following a rolling-release model. The default installation is a minimal base system, configured by the user to only add what is purposely required.
 
-[![](https://img.shields.io/badge/Troubleshooting-Arch%20Linux-blue)](aaa)
+![](https://img.shields.io/badge/Troubleshooting-Arch%20Linux-blue)
 
 <hr>
 
