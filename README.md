@@ -1,3 +1,8 @@
+![](https://c.tenor.com/JIS_KDKKsgYAAAAM/guaton-computadora.gif)
+
+This was created for Arch Linux users who have the same problems.
+Once you've completed the steps below, your system should function properly. 
+
 <hr>
 
 **Networks**
