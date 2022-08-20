@@ -58,5 +58,4 @@ Signature from "Levon 'noptrix' Kayan (Developer) &lt;noptrix@nullsecurity.net>"
 
     pacman -S glibc lib32-glibc
     
-    
-<hr>
+   
